@@ -1,7 +1,7 @@
 
 # Linux Master Class Notes 
 
-This repository contains all the notes of the Linux Master Class
+This repository will contain all the notes of the Linux Master Class. Its still in the making.
 
 Linux Master Class Playlist : https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i
 
