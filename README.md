@@ -16,7 +16,7 @@ Linux Master Class Playlist : https://www.youtube.com/playlist?list=PL2kSRH_DmWV
 
 Contributions are always welcome!
 
-You can add your name to the alphabetical list and, optionally, a link to your GitHub account below.
+You can add your name to the list and, optionally, a link to your GitHub account below.
 
 Steps to add your name : 
 - Fork the project
